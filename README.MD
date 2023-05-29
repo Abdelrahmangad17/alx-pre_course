@@ -1,2 +1,2 @@
-my frist readme updated.
+my frist readme updated
 README update from github.com
